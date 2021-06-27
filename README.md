@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello mas and pas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
-<!--
-**kritiikakkar/kritiikakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kriti Kakkar. Some people often ask me if I am the sister of Neha Kakkar. The answer is... well, assume away. 😀 
 
-Here are some ideas to get you started:
+A CSE AI/ML student at SRM IST, I love to read and sing my heart out (not in public ofc 🤡). And I can code.. only a little bit. 🤏 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things (or Tech Stack) I am familiar with :
+* Python
+* MySQL
+* HTML
+* Experimenting with new Python Libraries (PyTorch, TensorFlow, Pandas, Matplotlib and NumPy)
+* Attempted to learn Node.js and Arduino but.. <img src="https://media4.giphy.com/media/IzcFv6WJ4310bDeGjo/giphy.gif" height="25px" />
+
+#### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Follow me on [LinkedIn](https://www.linkedin.com/in/kritiikakkar/), [Instagram](https://www.instagram.com/kuchhnahii/) and [Pinterest](https://in.pinterest.com/xthegalacticempressx/). 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kritiikakkar&show_icons=true&theme=radical&count_private=true)</br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${kritiikakkar})
+
+
