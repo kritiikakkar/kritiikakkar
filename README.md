@@ -8,8 +8,7 @@ A CSE AI/ML student at SRM IST, I love to read and sing my heart out (not in pub
 * Python
 * MySQL
 * HTML
-* Experimenting with new Python Libraries (PyTorch, TensorFlow, Pandas, Matplotlib and NumPy)
-* Attempted to learn Node.js and Arduino but.. <img src="https://media4.giphy.com/media/IzcFv6WJ4310bDeGjo/giphy.gif" height="25px" />
+* Currently experimenting with new Python Libraries (PyTorch, TensorFlow, Pandas, Matplotlib and NumPy)
 
 #### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Follow me on [LinkedIn](https://www.linkedin.com/in/kritiikakkar/), [Instagram](https://www.instagram.com/kuchhnahii/) and [Pinterest](https://in.pinterest.com/xthegalacticempressx/). 
 
